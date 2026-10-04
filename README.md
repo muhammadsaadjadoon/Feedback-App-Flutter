@@ -20,6 +20,7 @@ The interface uses forest green, mint and warm ivory, with a symbol-only identit
 
 <table>
   <tr>
+    <td align="center"><img src="docs/screenshots/sign-in.png" width="240" alt="Branded email and password sign-in" /><br/><strong>Welcome back</strong></td>
     <td align="center"><img src="docs/screenshots/dashboard.png" width="240" alt="Member dashboard with review metrics" /><br/><strong>Member dashboard</strong></td>
     <td align="center"><img src="docs/screenshots/my-feedback.png" width="240" alt="Searchable feedback inbox" /><br/><strong>My feedback</strong></td>
     <td align="center"><img src="docs/screenshots/conversation.png" width="240" alt="Review detail with progress and team response" /><br/><strong>The conversation</strong></td>
@@ -31,7 +32,7 @@ The interface uses forest green, mint and warm ivory, with a symbol-only identit
   </tr>
   <tr>
     <td align="center"><img src="docs/screenshots/account-security.png" width="240" alt="Email verification and password controls" /><br/><strong>Account and security</strong></td>
-    <td align="center"><img src="docs/screenshots/sign-in.png" width="240" alt="Branded email and password sign-in" /><br/><strong>Welcome back</strong></td>
+    
     <td align="center"><img src="docs/screenshots/recent-feedback.png" width="240" alt="Recent feedback and next-step recommendation" /><br/><strong>Recent experiences</strong></td>
   </tr>
 </table>
