@@ -29,8 +29,6 @@ The interface uses forest green, mint and warm ivory, with a symbol-only identit
     <td align="center"><img src="docs/screenshots/insights.png" width="240" alt="Rating analytics and period filters" /><br/><strong>Experience insights</strong></td>
     <td align="center"><img src="docs/screenshots/account.png" width="240" alt="Account workspace and profile shortcut" /><br/><strong>Your space</strong></td>
     <td align="center"><img src="docs/screenshots/profile-details.png" width="240" alt="Editable profile and avatar colours" /><br/><strong>Personal details</strong></td>
-  </tr>
-  <tr>
     <td align="center"><img src="docs/screenshots/account-security.png" width="240" alt="Email verification and password controls" /><br/><strong>Account and security</strong></td>
     <td align="center"><img src="docs/screenshots/recent-feedback.png" width="240" alt="Recent feedback and next-step recommendation" /><br/><strong>Recent experiences</strong></td>
   </tr>
