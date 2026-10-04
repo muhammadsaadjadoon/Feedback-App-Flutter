@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {"name": "Feedback • Demo", "request": "launch", "type": "dart", "program": "lib/main.dart", "toolArgs": ["--dart-define=DEMO_MODE=true"]},
+    {"name": "Feedback • Firebase Android", "request": "launch", "type": "dart", "program": "lib/main.dart", "toolArgs": ["--dart-define-from-file=firebase.android.json"]}
+  ]
+}
