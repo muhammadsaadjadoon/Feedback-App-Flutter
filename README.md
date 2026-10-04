@@ -32,7 +32,6 @@ The interface uses forest green, mint and warm ivory, with a symbol-only identit
   </tr>
   <tr>
     <td align="center"><img src="docs/screenshots/account-security.png" width="240" alt="Email verification and password controls" /><br/><strong>Account and security</strong></td>
-    
     <td align="center"><img src="docs/screenshots/recent-feedback.png" width="240" alt="Recent feedback and next-step recommendation" /><br/><strong>Recent experiences</strong></td>
   </tr>
 </table>
