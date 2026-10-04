@@ -18,21 +18,50 @@ The interface uses forest green, mint and warm ivory, with a symbol-only identit
 
 ## Screenshots
 
+Explore the app from sign-in to feedback conversations and account settings. Click any screenshot to open the full-size image.
+
 <table>
   <tr>
-    <td align="center"><img src="docs/screenshots/dashboard.png" width="240" alt="Member dashboard with review metrics" /><br/><strong>Member dashboard</strong></td>
-    <td align="center"><img src="docs/screenshots/my-feedback.png" width="240" alt="Searchable feedback inbox" /><br/><strong>My feedback</strong></td>
-    <td align="center"><img src="docs/screenshots/conversation.png" width="240" alt="Review detail with progress and team response" /><br/><strong>The conversation</strong></td>
+    <td align="center" valign="top" width="33%">
+      <h3>Sign in</h3>
+      <a href="docs/screenshots/sign-in.png"><img src="docs/screenshots/sign-in.png" alt="Feedback app — Sign in" width="260" /></a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Member dashboard</h3>
+      <a href="docs/screenshots/dashboard.png"><img src="docs/screenshots/dashboard.png" alt="Feedback app — Member dashboard" width="260" /></a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>My feedback</h3>
+      <a href="docs/screenshots/my-feedback.png"><img src="docs/screenshots/my-feedback.png" alt="Feedback app — My feedback" width="260" /></a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/insights.png" width="240" alt="Rating analytics and period filters" /><br/><strong>Experience insights</strong></td>
-    <td align="center"><img src="docs/screenshots/account.png" width="240" alt="Account workspace and profile shortcut" /><br/><strong>Your space</strong></td>
-    <td align="center"><img src="docs/screenshots/profile-details.png" width="240" alt="Editable profile and avatar colours" /><br/><strong>Personal details</strong></td>
+    <td align="center" valign="top" width="33%">
+      <h3>Feedback conversation</h3>
+      <a href="docs/screenshots/conversation.png"><img src="docs/screenshots/conversation.png" alt="Feedback app — Feedback conversation" width="260" /></a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Recent feedback</h3>
+      <a href="docs/screenshots/recent-feedback.png"><img src="docs/screenshots/recent-feedback.png" alt="Feedback app — Recent feedback" width="260" /></a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Experience insights</h3>
+      <a href="docs/screenshots/insights.png"><img src="docs/screenshots/insights.png" alt="Feedback app — Experience insights" width="260" /></a>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/account-security.png" width="240" alt="Email verification and password controls" /><br/><strong>Account and security</strong></td>
-    <td align="center"><img src="docs/screenshots/sign-in.png" width="240" alt="Branded email and password sign-in" /><br/><strong>Welcome back</strong></td>
-    <td align="center"><img src="docs/screenshots/recent-feedback.png" width="240" alt="Recent feedback and next-step recommendation" /><br/><strong>Recent experiences</strong></td>
+    <td align="center" valign="top" width="33%">
+      <h3>Account overview</h3>
+      <a href="docs/screenshots/account.png"><img src="docs/screenshots/account.png" alt="Feedback app — Account overview" width="260" /></a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Profile details</h3>
+      <a href="docs/screenshots/profile-details.png"><img src="docs/screenshots/profile-details.png" alt="Feedback app — Profile details" width="260" /></a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>Account security</h3>
+      <a href="docs/screenshots/account-security.png"><img src="docs/screenshots/account-security.png" alt="Feedback app — Account security" width="260" /></a>
+    </td>
   </tr>
 </table>
 
